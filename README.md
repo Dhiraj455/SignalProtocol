@@ -9,8 +9,8 @@ This project is an **end-to-end encrypted chat** demo inspired by Signal-style p
 
 ## Demo video
 
-Screen recording walkthrough (download or open locally):  
-[Demo of End-to-End encrypted messaging (MP4)](./assets/Demo%20of%20End%20to%20End%20encrypted%20messaging.mp4)
+Screen recording walkthrough (Google Drive):  
+[Watch demo video](https://drive.google.com/file/d/1HLwxTmqWuUQwoyUhdaXwjWOSIvxNmaPX/view?usp=sharing)
 
 ---
 
